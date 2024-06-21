@@ -2,6 +2,6 @@
 all Facebook confirmation
 - all email confirmation
 - no checkpoint
-- need proxies
+- need proxies 
 - show cookies
 - contact: https://t.me/cryptomanm100
